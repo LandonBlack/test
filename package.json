@@ -1,24 +1,14 @@
 {
-<<<<<<< HEAD
   "name": "cst128-landonblack-project",
-=======
-  "name": "week-14",
->>>>>>> 49e6e07afbe2fae94c513f45008741e05d1eb818
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
     "test": "echo \"Error: no test specified\" && exit 1"
-=======
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
->>>>>>> 49e6e07afbe2fae94c513f45008741e05d1eb818
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-<<<<<<< HEAD
   "type": "commonjs",
   "dependencies": {
     "bcrypt": "^6.0.0",
@@ -27,10 +17,5 @@
     "jsonwebtoken": "^9.0.3",
     "mongoose": "^9.2.1",
     "morgan": "^1.10.1"
-=======
-  "dependencies": {
-    "ejs": "^3.1.10",
-    "express": "^5.2.1"
->>>>>>> 49e6e07afbe2fae94c513f45008741e05d1eb818
   }
 }
